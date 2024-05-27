@@ -1,0 +1,18 @@
+{
+  "name": "gestordebancos",
+  "version": "1.0.0",
+  "description": "Gestor de bancos en el cual se podra crear mas de una cuenta bancaria sin ningun costo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js",
+    "dev": "nodemon App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.1"
+  },
+  "type": "module"
+}
