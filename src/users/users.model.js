@@ -1,5 +1,5 @@
 import mongoose, { Schema } from "mongoose";
-import favoritesModel from "../favoriteAcount/favorites.model";
+import favoritesModel from "../favoriteAcount/favorites.model.js";
 import acountsModel from "../acount/acounts.model.js";
 
 const usersSchema = new Schema({

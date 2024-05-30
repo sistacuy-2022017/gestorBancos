@@ -1,4 +1,4 @@
-import mongoose, { Schema, mongo } from "mongoose";
+import mongoose, { Schema } from "mongoose";
 import movementsModel from "../movements/movements.model.js";
 
 const acountsSchema = new Schema({
